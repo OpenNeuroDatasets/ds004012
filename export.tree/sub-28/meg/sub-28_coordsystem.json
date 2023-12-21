@@ -1,0 +1,63 @@
+{
+    "MEGCoordinateSystem": "ElektaNeuromag",
+    "MEGCoordinateUnits": "m",
+    "MEGCoordinateSystemDescription": "RAS orientation and the origin between the ears",
+    "HeadCoilCoordinates": {
+        "NAS": [
+            1.862645149230957e-09,
+            0.09044754505157471,
+            -7.450580596923828e-09
+        ],
+        "LPA": [
+            -0.07961039245128632,
+            0.0,
+            -5.587935447692871e-09
+        ],
+        "RPA": [
+            0.0763985812664032,
+            0.0,
+            -3.725290298461914e-09
+        ],
+        "coil1": [
+            -0.0682997852563858,
+            0.0196030605584383,
+            0.10420012474060059
+        ],
+        "coil2": [
+            -0.059688664972782135,
+            -0.06391100585460663,
+            0.0923345685005188
+        ],
+        "coil3": [
+            0.06927040219306946,
+            -0.04759615659713745,
+            0.08413469791412354
+        ],
+        "coil4": [
+            0.06553712487220764,
+            0.04353395104408264,
+            0.09795401245355606
+        ]
+    },
+    "HeadCoilCoordinateSystem": "ElektaNeuromag",
+    "HeadCoilCoordinateUnits": "m",
+    "AnatomicalLandmarkCoordinates": {
+        "NAS": [
+            1.862645149230957e-09,
+            0.09044754505157471,
+            -7.450580596923828e-09
+        ],
+        "LPA": [
+            -0.07961039245128632,
+            0.0,
+            -5.587935447692871e-09
+        ],
+        "RPA": [
+            0.0763985812664032,
+            0.0,
+            -3.725290298461914e-09
+        ]
+    },
+    "AnatomicalLandmarkCoordinateSystem": "ElektaNeuromag",
+    "AnatomicalLandmarkCoordinateUnits": "m"
+}
